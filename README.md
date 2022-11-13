@@ -7,3 +7,7 @@ It is my first look at this Twitter API. This is not a professional project or a
 ## Random Tweet Quotes
 
 The fist fuction is tweets random quotes from a .json file.
+
+## Follow or Unfollow
+
+With this fuction you can see a basic example of the follow and unfollow action.
